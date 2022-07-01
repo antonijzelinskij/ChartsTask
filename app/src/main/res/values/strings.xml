@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Charts - Task</string>
+    <string name="fragment_charts_x_axis">x</string>
+    <string name="fragment_charts_y_axis">y</string>
+
+    <string name="charts_settings_fragment_field_hint">Количество точек</string>
+    <string name="charts_settings_fragment_apply_button">Поехали</string>
+    <string name="chart_settings_fragment_error_no_letters">Недопустимые символы в поле</string>
+    <string name="chart_settings_fragment_error_empty_field">Пустое поле</string>
+    <string name="chart_settings_fragment_instruction">Введите любое количество точек и возможно мы покажем вам всякие графики</string>
+    <string name="chart_settings_fragment_error_ok_btn">Ок</string>
+    <string name="chart_settings_fragment_error_title">Ошибка!</string>
+    <string name="chart_settings_fragment_error_message">Что-то пошло не так</string>
+    <string name="chart_fragment_successfull_saving">Изображение успешно сохранено в галерею</string>
+</resources>
